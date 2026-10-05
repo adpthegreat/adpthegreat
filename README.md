@@ -3,6 +3,7 @@ Personal project highlights:
 - [bypassing-kamino-restrictions](https://github.com/adpthegreat/bypassing-kamino-restrictions) solana pinocchio program + writeup to bypass kamino hardcoded restrictions
 - [flash swap amm](https://github.com/adpthegreat/flash-swap-amm) Solana AMM (Automated market Maker) with support for flash swaps 
 - [dual flow batch auctions](https://github.com/adpthegreat/dfba-pinocchio) Solana pinocchio implementation of [Dual Flow Batch Auctions](https://jumpcrypto.com/resources/dual-flow-batch-auction)
+- [poise finance](https://github.com/adpthegreat/poise-finance) basket/index tokens on solana with rebalancing 
 
 Open Source Contribution Highlights:
 - [Tycho protocol SDK](https://github.com/propeller-heads/tycho-protocol-sdk/pulls?q=is%3Apr+author%3Aadpthegreat+is%3Aclosed) Implemented CowAMM substreams adapter in rust
