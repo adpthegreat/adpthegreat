@@ -1,6 +1,7 @@
 Personal project highlights:
 
 - [bypassing-kamino-restrictions](https://github.com/adpthegreat/bypassing-kamino-restrictions) solana pinocchio program + writeup to bypass kamino hardcoded restrictions
+- [understanding-looping](https://github.com/adpthegreat/understanding-looping) writeup explaining the mathmand profitability behind looping and implementation of smart contracts in solana and EVM
 - [phoenix eternal onchain market maker program](https://github.com/adpthegreat/phoenix_eternal_onchain_market_maker) onchain market maker program for phoenix eternal perps
 - [flash swap amm](https://github.com/adpthegreat/flash-swap-amm) Solana AMM (Automated market Maker) with support for flash swaps 
 - [dual flow batch auctions](https://github.com/adpthegreat/dfba-pinocchio) Solana pinocchio implementation of [Dual Flow Batch Auctions](https://jumpcrypto.com/resources/dual-flow-batch-auction)
