@@ -9,6 +9,8 @@ Personal project highlights:
 - [dual flow batch auctions](https://github.com/adpthegreat/dfba-pinocchio) Solana pinocchio implementation of [Dual Flow Batch Auctions](https://jumpcrypto.com/resources/dual-flow-batch-auction)
 - [poise finance](https://github.com/adpthegreat/poise-finance) basket/index tokens on solana with rebalancing 
 
+Notes and articles:
+- [Writings from the crust of rust series by jon gjenset](https://github.com/adpthegreat/A-Lot-Of-Crust)
 Open Source Contribution Highlights:
 - [Tycho protocol SDK](https://github.com/propeller-heads/tycho-protocol-sdk/pulls?q=is%3Apr+author%3Aadpthegreat+is%3Aclosed) Implemented CowAMM substreams adapter in rust
 - [Wincode](https://github.com/anza-xyz/wincode/issues?q=is%3Apr%20state%3Amerged%20author%3Aadpthegreat) Added missing trait implementations and bug fixes
