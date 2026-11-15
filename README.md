@@ -1,6 +1,6 @@
 Personal project highlights:
 
-- [bypassing-kamino-restrictions](https://github.com/adpthegreat/bypassing-kamino-restrictions) solana pinocchio program + writeup to bypass kamino hardcoded restrictions
+- [bypassing-kamino-restrictions](https://github.com/adpthegreat/bypassing-kamino-restrictions) solana pinocchio program + writeup to bypass kamino finance (solana lending protocol) hardcoded restrictions
 - [understanding-looping](https://github.com/adpthegreat/understanding-looping) writeup explaining the mathematics and profitability behind looping and implementation of smart contracts in solana and EVM
 - [tick based liquidations](https://github.com/adpthegreat/tick-liquidations) deep dive into a unique liquidations system leveraging ticks (uni v3 type ticks) currently used by jupiter lend on solana
 - [phoenix eternal onchain market maker program](https://github.com/adpthegreat/phoenix_eternal_onchain_market_maker) onchain market maker program for phoenix eternal perps
