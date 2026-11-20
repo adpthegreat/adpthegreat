@@ -18,6 +18,7 @@ Notes and articles:
 - [Macros](https://github.com/adpthegreat/A-Lot-Of-Crust/tree/main/macros)
 
 Open Source Contribution Highlights:
+- [Rust Compiler](https://github.com/rust-lang/rust/pull/166012) Added AdtDef queries to rustc_public 
 - [Tycho protocol SDK](https://github.com/propeller-heads/tycho-protocol-sdk/pulls?q=is%3Apr+author%3Aadpthegreat+is%3Aclosed) Implemented CowAMM substreams adapter in rust
 - [Wincode](https://github.com/anza-xyz/wincode/issues?q=is%3Apr%20state%3Amerged%20author%3Aadpthegreat) Added missing trait implementations and bug fixes
 - [Plank-EVM](https://github.com/plankevm/plank-monorepo/pulls?q=is%3Apr+is%3Aclosed+author%3Aadpthegreat) Implemented Compiler Optimisations 
